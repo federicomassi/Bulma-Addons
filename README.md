@@ -1,6 +1,6 @@
 # Bulma-Addons
 ## Some addons for Bulma
-Bulma is a wonderful CSS library. Even though it's very extense, it needs a few tools and of some JS snippets.
+Bulma is a wonderful CSS library. Even though it's very extense, you could need some JS in order to enjoy it.
 Here I will put a small collection of some useful ones.
 
 ## bulma-panel.js

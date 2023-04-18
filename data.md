@@ -1,1 +1,1 @@
-404,index,test
+404,test

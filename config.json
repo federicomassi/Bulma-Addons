@@ -1,0 +1,24 @@
+{
+	"theme": "sakura.html",
+	"pages": [{
+			"name": "404"
+		},
+		{
+			"name": "test"
+		}
+	],
+	"img": [{
+			"name": "test.jpeg"
+		},
+		{
+			"name": "test.svg"
+		}
+	],
+	"res": [{
+			"name": "test.pdf"
+		},
+		{
+			"name": "test.odt"
+		}
+	]
+}

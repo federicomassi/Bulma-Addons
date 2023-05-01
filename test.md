@@ -1,4 +1,6 @@
 ---
+title: "Test"
+date: "2009-02-02"
 ---
 # test file test
 
